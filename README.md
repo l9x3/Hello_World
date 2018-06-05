@@ -1,2 +1,8 @@
 # Hello_World
-Simple print
+Class Hello_World
+{
+public static void main(System.in arg[])
+{
+System.out.println ("Hello_World");
+}
+}
